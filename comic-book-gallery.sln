@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "comic-book-gallery", "comic-book-gallery.csproj", "{B8D8BAFB-D820-4F99-A744-E0AF1CA27A81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "comic-book-gallery.Tests", "comic-book-gallery.Tests\comic-book-gallery.Tests.csproj", "{9728D5CE-2BB4-4964-BE20-0093534E85A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8D8BAFB-D820-4F99-A744-E0AF1CA27A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D8BAFB-D820-4F99-A744-E0AF1CA27A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D8BAFB-D820-4F99-A744-E0AF1CA27A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D8BAFB-D820-4F99-A744-E0AF1CA27A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9728D5CE-2BB4-4964-BE20-0093534E85A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9728D5CE-2BB4-4964-BE20-0093534E85A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9728D5CE-2BB4-4964-BE20-0093534E85A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9728D5CE-2BB4-4964-BE20-0093534E85A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
